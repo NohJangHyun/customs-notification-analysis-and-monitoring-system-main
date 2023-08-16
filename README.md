@@ -27,7 +27,7 @@
 + **Team Leader**
   + [KwanJung98 (82KJ)](https://github.com/82KJ/) - FE / BE / Design Auto Scraper / NLP Model Selection & Application 
 + **Team Member**
-  + [JangHyun Noh (NohJangHyun)](https://github.com/NohJangHyun) - Scraping (Japan) / Data Preprocessing / Testing & Results Analysis
+  + [JangHyun Noh (NohJangHyun)](https://github.com/NohJangHyun) - Scraping (Japan, Australia) / Data Preprocessing / Testing & Results Analysis
   + [Yoona PARK (gyunnas)](https://github.com/gyunnas) - Scraping (America, Australia) / Data Preprocessing / BE
   + [JinSeo_Han (jinseoyaaa)](https://github.com/jinseoyaaa) - Scraping (Vietnam, China) / Data Preprocessing / Testing & Results Analysis
 
